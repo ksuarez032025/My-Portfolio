@@ -101,7 +101,9 @@ h3 {
 }
 
 .custom-img-border {
-  box-shadow: var(--box-shadow);
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
 .about-professional,
