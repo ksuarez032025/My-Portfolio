@@ -5,3 +5,12 @@
   --accent-color: #91d9ce;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
+
+body {
+  background-color: var(--primary-background-color);
+  color: var(--text-color);
+}
+
+.navbar-logo-icon {
+  width: 60px;
+}
